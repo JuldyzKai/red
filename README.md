@@ -976,7 +976,7 @@
              <!-- QR-код бөлімін  -->
     <div class="qr-code-container">
         <h3>Портфолиомды сканерлеу</h3>
-        <img src="КЮАРпартфолио.png" 
+        <img src="кюар.png" 
              alt="QR Code" 
              class="qr-code">
         <p>Камераны QR-кодқа бағыттаңыз</p>
