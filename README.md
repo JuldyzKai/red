@@ -759,7 +759,7 @@
                 </div>
             </div>
             <div class="hero-img">
-                <img src="МЕН.png" alt="Мұғалім портфолиосы">
+                <img src="МЕЕ.jpg" alt="Мұғалім портфолиосы">
             </div>
         </div>
     </section>
@@ -773,7 +773,7 @@
             </div>
             <div class="about-content">
                 <div class="about-img">
-                    <img src="маги.png" alt="Мұғалім портфолиосы">
+                    <img src="МАГ.png" alt="Мұғалім портфолиосы">
                 </div>
                 <div class="about-text">
                     <h3>Педагогика ғылымдарының магистрі, педагог-сарапшы</h3>
